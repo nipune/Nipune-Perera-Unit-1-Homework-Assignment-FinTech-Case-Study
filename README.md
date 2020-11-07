@@ -1,4 +1,4 @@
-# # Wealthsimple
+# Wealthsimple
 
 ## Overview and Origin
 
