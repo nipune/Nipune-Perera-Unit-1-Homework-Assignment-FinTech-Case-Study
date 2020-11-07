@@ -45,7 +45,7 @@ The company uses Amazon cloud-based platforms to store and retrieve data from th
 
 As Wealthsimples customers are more beginner investors they need good customer service platforms and social media presents. Some of the programs that they use to communicate with their customers include Amazon SQS and Zendesk. 
 
-## Landscape:
+## Landscape
 
 ### What domain of the financial industry is the company in?
 Robo Advising 
