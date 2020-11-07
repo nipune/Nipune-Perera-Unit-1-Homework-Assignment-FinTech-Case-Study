@@ -80,13 +80,13 @@ This would encourage transparency with their customers about how much money the 
 ### Why are these technologies appropriate for your solution?
 
 
-Sources 
-*https://www.wealthsimple.com/en-ca/
-https://www.crunchbase.com/organization/wealthsimple
-https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
-https://www.youtube.com/watch?v=3wc8COBVQeg
-https://www.cbc.ca/news/business/wealthsimple-us-launch-1.3958909
-https://www.nerdwallet.com/reviews/investing/advisors/wealthsimple
-https://stackshare.io/wealthsimple/wealthsimple
-https://medium.com/swlh/how-disruptive-innovation-work-the-robo-advisors-case-e72fa5b8eb07
-https://www.finextra.com/newsarticle/36757/wealthsimple-achieves-15-billion-valuation-on-new-fundraising-round
+##Sources 
+	https://www.wealthsimple.com/en-ca/
+	https://www.crunchbase.com/organization/wealthsimple
+	https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
+	https://www.youtube.com/watch?v=3wc8COBVQeg
+	https://www.cbc.ca/news/business/wealthsimple-us-launch-1.3958909
+	https://www.nerdwallet.com/reviews/investing/advisors/wealthsimple
+	https://stackshare.io/wealthsimple/wealthsimple
+	https://medium.com/swlh/how-disruptive-innovation-work-the-robo-advisors-case-e72fa5b8eb07
+	https://www.finextra.com/newsarticle/36757/wealthsimple-achieves-15-billion-valuation-on-new-fundraising-round
