@@ -80,7 +80,8 @@ This would encourage transparency with their customers about how much money the 
 ### Why are these technologies appropriate for your solution?
 
 
-##Sources 
+##Sources
+
 	https://www.wealthsimple.com/en-ca/
 	https://www.crunchbase.com/organization/wealthsimple
 	https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
