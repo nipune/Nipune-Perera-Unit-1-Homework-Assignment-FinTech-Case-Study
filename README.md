@@ -56,14 +56,18 @@ Robo Advising
 ### What are the other major companies in this domain?
 Nest Wealth, WealthBar; Bank of Montreal's SmartFolio; and Modern Advisor. In addition, they are challenging the big banks and investment firms that have dominated the business for decades.
 
-## Results
+### Results
 
-* What has been the business impact of this company so far?
+### What has been the business impact of this company so far?
+Wealthsimple, which manages C$8.4 billion and has more than 1.5 million users.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+These would be active uses and returns on the investment companies are making.
+Wealthsimple has more than 175,000 active users a day.
 
-* How is your company performing relative to competitors in the same domain?
-The purchase price associated with the latest fundraising values the common equity of Wealthsimple at $1.5 billion.
+### How is your company performing relative to competitors in the same domain?
+Wealthsimple growth portfolio has grown by 26.6% (after fees) from January 30, 2017, to October 31, 2020. Whereas their competitor Wealthbar Growth ETF Portfolio has grown by 21.14% over the last 3 years.
+
 
 ## Recommendations
 
@@ -76,12 +80,14 @@ Wealthsimple could open up into international stock exchanges in Asia or Austral
 This would encourage transparency with their customers about how much money the customer has invested compared to savings. This would allow customers to get a clear picture of their net worth. Opening up more countries' stock exchanges would allow customers to minimize risk with their investments.
 
 ### What technologies would this additional product or service utilize?
+Wealthsimple could use Financial Data Aggregation and Transaction Data Enrichment.
 
 ### Why are these technologies appropriate for your solution?
+Using Financial Data Aggregation and Transaction Data Enrichment, Wealthsimple could easily get the bank, credit card, investment, loans, rewards, and financial account data. This would help them sync the data to their platform
 
 
-##Sources
 
+## Addendum 
 	https://www.wealthsimple.com/en-ca/
 	https://www.crunchbase.com/organization/wealthsimple
 	https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
@@ -91,3 +97,6 @@ This would encourage transparency with their customers about how much money the 
 	https://stackshare.io/wealthsimple/wealthsimple
 	https://medium.com/swlh/how-disruptive-innovation-work-the-robo-advisors-case-e72fa5b8eb07
 	https://www.finextra.com/newsarticle/36757/wealthsimple-achieves-15-billion-valuation-on-new-fundraising-round
+	https://www.yodlee.com/oceania
+	https://help.wealthsimple.com/hc/en-us/articles/214187018-How-has-the-Growth-portfolio-performed-
+	https://help.cidirectinvesting.com/11892-performance/how-has-the-growth-etf-portfolio-performed
