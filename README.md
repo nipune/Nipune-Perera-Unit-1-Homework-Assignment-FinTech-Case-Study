@@ -81,7 +81,7 @@ This would encourage transparency with their customers about how much money the 
 
 
 Sources 
-* Item 1 https://www.wealthsimple.com/en-ca/
+*https://www.wealthsimple.com/en-ca/
 https://www.crunchbase.com/organization/wealthsimple
 https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
 https://www.youtube.com/watch?v=3wc8COBVQeg
